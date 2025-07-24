@@ -2,5 +2,30 @@ header{
     background-image: url(../image/bg.jpg);
     background-size: cover;
     background-position: center;
-    
+
+}
+.icon a{
+    color:white;
+}
+.title h2{
+
+font-size: 5rem;
+font-weight: bold;
+color: grey;
+letter-spacing: 10px;
+font-family: Georgia, 'Times New Roman', Times, serif;
+}
+.title h3{
+  font-size: 2.5rem;  
+  font-weight: bold;
+  color: black;
+  letter-spacing: 15px;
+  font-family: Georgia, 'Times New Roman', Times, serif;
+}
+     
+#about{
+background-image:url(../image/light_dot\ -\ Copy.jpg) ;
+}
+.text-main{
+    color: #4726e4;
 }
